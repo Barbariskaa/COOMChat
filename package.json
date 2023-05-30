@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Barbariskaa/COOMChat/issues"
   },
-  "homepage": "https://github.com/Barbariskaa/COOMChat#readme"
+  "homepage": "https://github.com/Barbariskaa/COOMChat#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {}
 }
