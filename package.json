@@ -1,0 +1,25 @@
+{
+  "name": "jerkcel-rejerked",
+  "version": "1.0.0",
+  "description": "fork of the original jerkcel",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barbariskaa/jerkcel-rejerked.git"
+  },
+  "keywords": [
+    "jerkcel",
+    "claude",
+    "silly",
+    "tavernai"
+  ],
+  "author": "Barbariskaa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Barbariskaa/jerkcel-rejerked/issues"
+  },
+  "homepage": "https://github.com/Barbariskaa/jerkcel-rejerked#readme"
+}
